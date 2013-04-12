@@ -1,2 +1,2 @@
-#                 this repo is to learn !
-## prject to display images on a map shootomap.
+#                 This Repo. is to Learn!
+## Project to display images on a map shooToMap.##
